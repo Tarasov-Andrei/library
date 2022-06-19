@@ -45,4 +45,4 @@ bool enc_click(void);
  */
 bool enc_long_press(void);
 
-#endif // ENCODER_H
+#endif // ENCODER_H 
